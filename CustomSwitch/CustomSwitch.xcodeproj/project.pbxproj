@@ -13,6 +13,7 @@
 		FA319C912649AB10002DFE5C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA319C8F2649AB10002DFE5C /* Main.storyboard */; };
 		FA319C932649AB12002DFE5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA319C922649AB12002DFE5C /* Assets.xcassets */; };
 		FA319C962649AB12002DFE5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA319C942649AB12002DFE5C /* LaunchScreen.storyboard */; };
+		FA319C9E2649AC03002DFE5C /* CustomRectSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA319C9D2649AC03002DFE5C /* CustomRectSwitch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA319C922649AB12002DFE5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA319C952649AB12002DFE5C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA319C972649AB12002DFE5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA319C9D2649AC03002DFE5C /* CustomRectSwitch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomRectSwitch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				FA319C892649AB10002DFE5C /* AppDelegate.swift */,
 				FA319C8B2649AB10002DFE5C /* SceneDelegate.swift */,
+				FA319C9D2649AC03002DFE5C /* CustomRectSwitch.swift */,
 				FA319C8D2649AB10002DFE5C /* ViewController.swift */,
 				FA319C8F2649AB10002DFE5C /* Main.storyboard */,
 				FA319C922649AB12002DFE5C /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA319C9E2649AC03002DFE5C /* CustomRectSwitch.swift in Sources */,
 				FA319C8E2649AB10002DFE5C /* ViewController.swift in Sources */,
 				FA319C8A2649AB10002DFE5C /* AppDelegate.swift in Sources */,
 				FA319C8C2649AB10002DFE5C /* SceneDelegate.swift in Sources */,
